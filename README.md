@@ -10,7 +10,7 @@ Este script em Python automatiza a tarefa de agrupar e mesclar arquivos PDF frag
 * **Criação de Pasta:** Gera automaticamente uma pasta de saída para não misturar os arquivos originais com os mesclados.
 * **Processamento em Lote:** Processa centenas de arquivos de uma só vez.
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 * Python 3.x instalado.
 * Biblioteca `pypdf`.
